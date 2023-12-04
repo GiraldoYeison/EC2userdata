@@ -1,10 +1,7 @@
 # EC2userdata
-Creating an AWS EC2 instance with user data
+Creating an AWS EC2 instance with user data / Launching EC2 Instances and test user data
 
-# EC2userdata
-Launching EC2 Instances and test user data
-
-<h1>Launching EC2 Instances and test user data</h1>
+<b><h1>Launching EC2 Instances and test user data</h1></b>
 
 <div><b>Creation Date:</b> October 18, 2023</div>
 <div><b>Created By:</b> Yeison Giraldo</div>
